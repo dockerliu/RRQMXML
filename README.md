@@ -9,3 +9,6 @@
 1、节点值存储
 
 2、属性值存储
+
+
+![image](https://user-images.githubusercontent.com/57223447/113512653-80c7b180-955d-11eb-98a3-12355fde56c5.png)
